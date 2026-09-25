@@ -1,0 +1,41 @@
+# Unity generated folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+
+# IDE / editor files
+.vs/
+.vscode/
+.idea/
+*.csproj
+*.sln
+*.suo
+*.user
+*.userprefs
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Unity cache / generated files
+sysinfo.txt
+*.pidb
+*.booproj
+*.svd
+
+# Crash reports
+crashlytics-build.properties
+
+# Build output
+*.apk
+*.aab
+*.app
+*.exe
+*.unitypackage
+
+# ML-Agents generated training output
+Assets/ML-Agents/config/results/
